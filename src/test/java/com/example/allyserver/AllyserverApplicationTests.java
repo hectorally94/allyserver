@@ -1,0 +1,13 @@
+package com.example.allyserver;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AllyserverApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
